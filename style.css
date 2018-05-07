@@ -3,7 +3,7 @@
           <script>
             function show Meldung()(
             // Hier die Div id-meldung "füllen"
-            document.getElementById("meldung").innerHTML="Dies ist eine Meldung."
+            document.getElementById("meldung").innerHTML="Dies ist eine Meldung.";
 )
           </script>
   </head>
