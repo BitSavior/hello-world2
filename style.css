@@ -1,13 +1,13 @@
 <html>
    <head>
           <script>
-            function show Meldung()(
+            function show Meldung(){
             // Hier die Div id-meldung "füllen"
             document.getElementById("meldung").innerHTML="Dies ist eine Meldung.";
-)
+}
           </script>
   </head>
- <body>
+ <body onClick="showMEldung">
 <div id="meldung"></div>
 </body>
 </html>
